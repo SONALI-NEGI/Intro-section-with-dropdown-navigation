@@ -8,8 +8,8 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://your-solution-url.com)
-- Live Site URL: [GitHub Page](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/SONALI-NEGI/Intro-section-with-dropdown-navigation.git)
+- Live Site URL: [GitHub Page](https://sonali-negi.github.io/Intro-section-with-dropdown-navigation/)
 
 ### Built with
 
