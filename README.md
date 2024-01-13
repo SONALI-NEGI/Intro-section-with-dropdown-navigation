@@ -4,7 +4,6 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 
 ![](./design/desktop-screenshot.jpeg)
 ![](./design/ipad-screenshot.jpeg)
-![](./design/mobile-design.jpg)
 
 ### Links
 
