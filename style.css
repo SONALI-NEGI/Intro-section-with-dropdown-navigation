@@ -272,7 +272,7 @@ main button:hover {
   }
   .open_menu {
     background-image: url(./images/icon-menu.svg);
-    height: 1.3rem;
+    height: 1.7rem;
     background-repeat: no-repeat;
     width: 2rem;
     display: block;
@@ -280,7 +280,6 @@ main button:hover {
     top: 2rem;
     right: 1rem;
   }
-
   .close_menu {
     background-image: url(./images/icon-close-menu.svg);
     height: 1.7rem;
@@ -291,7 +290,7 @@ main button:hover {
     top: 2rem;
     right: 1rem;
     z-index: 2;
-    animation: rotate 0.5s ease-in 0s 1 normal;
+    animation: rotate 0.3s ease-in 0s 1 forwards;
   }
   @keyframes rotate {
     form {
@@ -299,6 +298,7 @@ main button:hover {
     }
     to {
       transform: rotate(90deg);
+      /* transform: rotate(105deg); */
     }
   }
   nav {
